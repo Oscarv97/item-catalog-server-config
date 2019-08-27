@@ -93,3 +93,8 @@ from server import app as application
 
 [Helpfull basic guide that was losely followed for apache and python](https://medium.com/@esteininger/python-3-5-flask-apache2-mod-wsgi3-on-ubuntu-16-04-67894abf9f70)
 
+## Other Helpful Resources 
+- GitHub Repositories 
+  - [boisalai/udacity-linux-server-configuration](https://github.com/boisalai/udacity-linux-server-configuration/blob/master/README.md)
+
+  - [mulligandev/Udacity-Linux-Configuration](https://github.com/mulligandev/Udacity-Linux-Configuration)
