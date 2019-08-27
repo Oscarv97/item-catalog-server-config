@@ -89,6 +89,10 @@ from server import app as application
 ## Notes
 * I changed my database structure prior to submission of Project 4 and descovered that i had mixed python version, I was unbale to populate the data on the server , but it responds. That project should no hinder the criteria of this 
 
+# Upadate after Review 
+* Disable port 8000
+`sudo ufw deny 8000/tcp`
+![status](./assets/)
 ## Resources used 
 [How to make proper ssh keys](https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys)
 
