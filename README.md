@@ -32,6 +32,7 @@ A README file is included in the GitHub repo containing the following informatio
 * Added user `grader` 
 * set user password
 * add user to sudors
+* Configured ssh for grader to login in with `ssh -i ./.ssh/grader_key.pem grader@54.82.99.198 -p 2200`
 * Disable ssh login for root user
 * configured and enanled`ufw`
 * set HTTP to 80
